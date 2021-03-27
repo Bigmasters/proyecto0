@@ -6,7 +6,7 @@ li {
 
 /* Selector normal */
 body {
-  background-image: url("imagenes/Cosmos.jpg");
+  background-image: url("/imagenes/Cosmos.jpg");
   background-size: cover;
   background-color: #383D8B;
 }
@@ -54,7 +54,7 @@ nav div a {
 /* @media consulta */
 @media only screen and (max-width: 600px) {
   body {
-    background-image: url("imagenes/cosmosestrella.jpg");
+    background-image: url("/imagenes/cosmosestrella.jpg");
     background-size: cover;
   }
 
