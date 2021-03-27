@@ -8,6 +8,7 @@ li {
 body {
   background-image: url("imagenes/Cosmos.jpg");
   background-size: cover;
+  background-color: #383D8B;
 }
 
 /* Multiselector */
