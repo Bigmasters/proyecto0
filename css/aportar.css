@@ -42,6 +42,10 @@ h1, li {
   font-size: x-large;
 }
 
+#Importantt {
+  font-size: x-large;
+}
+
 /* Propiedad de SCSS */
 nav div a {
   background-color: yellow;
