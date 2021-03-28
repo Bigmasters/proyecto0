@@ -50,6 +50,7 @@ nav div a {
 /* Extender / Heredar propiedad SCSS */
 .nav-item {
   color: orange;
+  background-color: black;	
 }
 
 /* @media consulta */
