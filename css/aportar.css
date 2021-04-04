@@ -20,6 +20,7 @@ h1, li {
 /* 	Selector de clases
 	  La clase de menu incluye h1 y ol*/
 .menu {
+  color: white;	
   width: 30%;
   padding: 12px 25px;
 }
